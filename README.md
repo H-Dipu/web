@@ -25,7 +25,6 @@ Footer: Spans the full width of the page and is fixed at the bottom.
 ASCII Art Representation
 Here's a simplified ASCII diagram representing the layout for each page of the website:
 
-
 +-------------------------------------------------------+
 |                    Header (Website Title)            |
 +-------------------------------------------------------+
@@ -57,6 +56,8 @@ Here's a simplified ASCII diagram representing the layout for each page of the w
 +-------------------------------------------------------+
 |                      Footer (Copyright)                |
 +-------------------------------------------------------+
+
+
 Explanation
 Header:
 
